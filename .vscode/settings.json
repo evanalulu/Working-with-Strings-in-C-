@@ -1,0 +1,32 @@
+{
+    "terminal.integrated.defaultProfile.windows": "MSYS MinGW",
+    "terminal.integrated.profiles.windows": {
+        "MSYS MinGW": {
+            "path": "c:/msys64/msys2_shell.cmd",
+            "args": ["-defterm", "-here", "-no-start", "-mingw64"]
+        }
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "stack": "cpp",
+        "set": "cpp",
+        "__config": "cpp",
+        "__hash_table": "cpp",
+        "__tree": "cpp",
+        "bitset": "cpp",
+        "filesystem": "cpp",
+        "locale": "cpp",
+        "sstream": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "version": "cpp",
+        "__node_handle": "cpp",
+        "complex": "cpp",
+        "__bit_reference": "cpp",
+        "__string": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp"
+    }
+}
